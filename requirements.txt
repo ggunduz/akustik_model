@@ -1,0 +1,2 @@
+tensorflow-io==0.25.0
+tensorflow==2.8.0
